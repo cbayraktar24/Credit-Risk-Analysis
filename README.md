@@ -8,6 +8,7 @@ This project analyzes consumer loan data to identify key drivers of default risk
 
 ## Dataset
 - Source: https://www.kaggle.com/datasets/laotse/credit-risk-dataset
+- Dataset file used locally: credit_risk_dataset.csv
 - Observations: ~32,000 loans
 - Target variable: loan_status (0 = non-default, 1 = default)
 
