@@ -30,7 +30,12 @@ This project analyzes consumer loan data to identify key drivers of default risk
 - Demonstrated trade-offs between precision and recall based on business risk appetite.
 
 ## How to Run
-```bash
-pip install -r requirements.txt
-jupyter notebook
+1. Clone this repository:
+   git clone https://github.com/cbayraktar24/Credit-Risk-Analysis.git
+
+2. Install required dependencies:
+   pip install -r requirements.txt
+
+3. Open the notebook:
+   jupyter notebook Credit_Risk_Analysis_FINAL.ipynb
 
