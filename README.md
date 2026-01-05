@@ -1,7 +1,7 @@
 # Credit Risk Analysis Project
 
 NBViewer link:
-https://nbviewer.org/github/cbayraktar24/Banking-Data-Analysis/blob/main/Credit_Risk_Analysis_FINAL.ipynb
+https://nbviewer.org/github/cbayraktar24/Credit-Risk-Analysis/blob/main/Credit_Risk_Analysis_FINAL.ipynb
 
 ## Project Overview
 This project analyzes consumer loan data to identify key drivers of default risk and build a baseline credit risk model using logistic regression.
